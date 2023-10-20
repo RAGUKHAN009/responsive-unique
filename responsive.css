@@ -1,0 +1,1457 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@import url("https://fonts.googleapis.com/css?family=Inter:900,400,600,300,800,500,700|Caveat:700");
+/* The following line is used to measure usage of this code. You can remove it if you want. */
+@import url("https://px.animaapp.com/64e8d4ed7704051b825b4deb.64e8d4ee7704051b825b4dee.OQ1DQCV.hcp.png");
+
+
+/* 
+
+
+  LAPTOP SCREENS
+
+
+*/
+
+@media screen and (max-width: 2561px) {
+  .NavbarBox {
+    width: 50%;
+ 
+  }
+
+  .Main1 {
+    width: 100%;
+    height: 30vh;
+  }
+
+  .Main2 {
+    width: 100%;
+    height: 65vh;
+  }
+
+  .Main21 {
+    width: 51.5%;
+    margin-left: 25%;
+
+  }
+
+  .Main22 {
+    margin-left: 25%;
+    width: 50%;
+  }
+
+  .Main221 p {
+    height: 55vh;
+  }
+
+  .Main222 {
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .Main2221 {
+    width: 30%;
+  }
+
+  .Main32 {
+    width: 100%;
+  }
+
+  .Main321 {
+    height: 18vh;
+  }
+
+  .Main3 {
+    height: 80vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+  }
+
+  .Main32 {
+    width: 53.5%;
+  }
+
+  .Main34 span {
+    text-align: center;
+  }
+
+  .Main34 p {
+    text-align: center;
+  }
+
+  .Main4 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Main41 {
+    width: 50%;
+    margin-left: 0%;
+  }
+
+  .Main411 {
+    width: 50%;
+  }
+
+  .Main421 {
+    width: 50%;
+  }
+
+  .Main421 img {
+    width: 100%;
+  }
+
+  .Main6 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Main61 {
+    width: 50%;
+  }
+
+  .Main7 {
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+    padding-bottom: 3%;
+  }
+
+  .Main71 {
+    width: 50%;
+  }
+
+  .Main8 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Main81 {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 5%;
+  }
+
+  .Main81 img {
+    width: 15%;
+  }
+
+  .Main9 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .Main91 {
+    width: 50%;
+  }
+}
+
+
+@media screen and (width: 1441px) {
+  .NavbarBox {
+    width: 100%;
+  }
+
+  .Main1 {
+    background-repeat: no-repeat;
+    width: 100%;
+    padding-left: 26%;
+    height: 40vh;
+  }
+
+  .Main2 {
+    width: 100%;
+    height: 65vh;
+  }
+
+  .Main21 {
+    margin-left: 55.5%;
+    border-left: 76px solid #1bbcff;
+    border-right: 76px solid #1bbcff;
+  }
+
+  .Main22 {
+    margin-left: 55.5%;
+    width: 100%;
+  }
+
+  .Main221 p {
+    height: 55vh;
+  }
+
+  .Main222 {
+    width: 100%;
+    margin-left: 25.3%;
+    padding-left: 22px;
+  }
+
+  .Main32 {
+    width: 100%;
+  }
+
+  .Main321 {
+    height: 18vh;
+  }
+
+  .Main3 {
+    height: 70vh;
+  }
+
+  .Main41 {
+    width: 100%;
+    margin-left: 27%;
+  }
+
+  .Main61 {
+    width: 100%;
+    margin-left: 27%;
+  }
+
+  .Main71 {
+    width: 100%;
+    margin-left: 27%;
+  }
+
+  .Main81 {
+    padding-left: 45px;
+    gap: 140px;
+    width: 98%;
+  }
+}
+
+
+
+@media screen and (max-width: 1025px) and (min-width: 770px) {
+  .HomeContainer {
+    width: 100%;
+    height: 240vh;
+  }
+
+  .NavbarBox {
+    width: 95%;
+    padding-left: 33px;
+  }
+
+  .NavbarContainer {
+    width: 100%;
+  }
+
+  .Main1 {
+    height: 110vh;
+    width: 100%;
+    background-repeat: no-repeat;
+  }
+
+  .Main1 h1 {
+    width: 98%;
+  }
+
+  .Main1 h4 {
+    width: 85%;
+  }
+
+  .Main11 {
+    display: flex;
+    gap: 4.5em;
+  }
+
+  .Main11 span {
+    display: flex;
+    width: 25%;
+    align-items: baseline;
+    word-spacing: 0px;
+    letter-spacing: 0px;
+  }
+
+  .Main222 {
+    width: 90.3%;
+  }
+
+  .Main2221 {
+    width: 33%;
+  }
+
+  .Main2221 h2 {
+    width: 34%;
+  }
+
+  .Main3 {
+    height: 160vh;
+  }
+
+  .Main321 p {
+    width: 100%;
+  }
+
+  .Main712 ul li {
+    display: flex;
+    gap: 15px;
+  }
+
+  .Main81 {
+    display: flex;
+    gap: 17px;
+  }
+
+}
+
+
+
+
+
+
+/* 
+
+
+  TABLET SECREEN
+
+
+*/
+
+
+
+
+@media screen and (max-width: 769px) {
+  .HomeContainer {
+    width: 100%;
+  }
+
+  .NavbarContainer {
+    width: 100%;
+  }
+
+  .Main1 {
+    width: 96%;
+    height: 150vh;
+    gap: 70px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Main1 h1 {
+    font-size: 2.7rem;
+  }
+
+  .Main1 h4 {
+    font-size: 23px;
+    width: 73%;
+  }
+
+  .Button1 {
+    margin-top: 75%;
+  }
+
+  .Main1 span {
+    margin-top: -33px;
+  }
+
+  .Main11 {
+    display: none;
+  }
+
+  .Main2 {
+    width: 738px;
+    height: 100vh;
+    position: absolute;
+    top: 500px;
+  }
+
+  .Main22 {
+    width: 84.7%;
+    position: absolute;
+  }
+
+  .Main21 {
+    width: 92.6;
+  }
+
+  .Main221 p {
+    height: 60vh;
+  }
+
+  .Main222 {
+    display: none;
+  }
+
+  .Main3 {
+    width: 100%;
+    height: 215vh;
+  }
+
+
+  .Main31 {
+    padding-top: 5%;
+    width: 95%;
+  }
+
+  .Main32 {
+    display: flex;
+    flex-direction: column;
+    gap: 3.875em;
+    height: 130vh;
+    justify-content: space-between;
+  }
+
+  .Main321 {
+    width: 90%;
+  }
+
+  .Main321 p {
+    width: 35%;
+  }
+
+  .Main33 {
+    position: absolute;
+    top: 318%;
+  }
+
+
+  .Button11 {
+    margin-top: 40%;
+  }
+
+  .Main34 {
+    padding-top: 30%;
+  }
+
+  .Main41 {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 4%;
+  }
+
+  .Main411 h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .Main411 p {
+    width: 98%;
+  }
+
+  .Main51 {
+    width: 100%;
+  }
+
+  .Main51 h2 {
+    width: 45%;
+  }
+
+  .Main51 p {
+    width: 83%;
+  }
+
+  .Main53 h3 {
+    text-align: center;
+    color: rgb(29, 46, 59);
+    font-family: "Caveat", handwriting;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 140%;
+    font-size: 3rem;
+  }
+
+  .Main53 h1 {
+    width: 50%;
+    font-size: 2.5rem;
+  }
+
+  .Main53 .Button12 {
+    margin-top: 25px;
+    width: 35%;
+  }
+
+  .Main6 {
+    padding-bottom: 60px;
+  }
+
+  .Main611 img {
+    position: absolute;
+    margin-top: -35%;
+    left: 114px;
+  }
+
+  .Main612 h1 {
+    margin-bottom: 90%;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+    width: 85%;
+  }
+
+  .Main7 {
+    width: 776px;
+  }
+
+  .Main71 {
+    width: 80%;
+    margin-left: 2%;
+    height: 130vh;
+  }
+
+  .Main711 {
+    position: absolute;
+    margin-top: 49%;
+    margin-left: 35px;
+  }
+
+  .Main7111 {
+    margin-left: 30px;
+  }
+
+  .Main712 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .Main8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Main8 h2 {
+    font-size: 2.5rem;
+  }
+
+  .Main81 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .Main81 img {
+    height: fit-content;
+    width: 60%;
+  }
+
+  .Main9 {
+    padding-bottom: 25px;
+  }
+
+  .accordion-header {
+    font-size: 1.5rem;
+  }
+
+  .accordion-item {
+    width: 760px;
+  }
+
+  .accordion-content {
+    width: 90%;
+  }
+
+  .FooterBox {
+    width: 30%;
+  }
+
+  .FooterBox img {
+    width: 85%;
+    height: 6.2vh;
+  }
+}
+
+
+
+
+/* 
+
+
+  LARGE MOBILE SCREEN
+
+
+*/
+
+
+
+
+
+@media screen and (max-width: 426px) {
+  .HomeContainer {
+    width: 100%;
+  }
+
+  .NavbarContainer {
+    width: 100%;
+  }
+
+  .Main1 {
+    width: 96%;
+    height: 150vh;
+    gap: 70px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Main1 h1 {
+    font-size: 2.7rem;
+  }
+
+  .Main1 h4 {
+    font-size: 23px;
+    width: 73%;
+  }
+
+  .Button1 {
+    margin-top: 75%;
+  }
+
+  .Main1 span {
+    margin-top: -33px;
+  }
+
+  .Main11 {
+    display: none;
+  }
+
+  .Main2 {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 500px;
+  }
+
+  .Main22 {
+    width: 84.7%;
+    position: absolute;
+  }
+
+  .Main21 {
+    width: 92.6;
+  }
+
+  .Main221 p {
+    height: 60vh;
+  }
+
+  .Main222 {
+    display: none;
+  }
+
+  .Main3 {
+    width: 100%;
+    height: 215vh;
+  }
+
+
+  .Main31 {
+    padding-top: 5%;
+    width: 95%;
+  }
+
+  .Main32 {
+    display: flex;
+    flex-direction: column;
+    gap: 3.875em;
+    height: 130vh;
+    justify-content: space-between;
+  }
+
+  .Main321 {
+    width: 90%;
+  }
+
+  .Main321 p {
+    width: 35%;
+  }
+
+  .Main33 {
+    width: 82%;
+    left: 10%;
+  }
+
+
+  .main33 span {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    width: 120%;
+  }
+
+
+  .Button11 {
+    margin-top: 57%;
+    width: 80%;
+  }
+
+  .Main34 {
+    padding-top: 30%;
+  }
+
+  .Main41 {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 4%;
+  }
+
+  .Main411 h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .Main411 p {
+    width: 98%;
+  }
+
+  .Main421 img {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+
+  }
+
+  .Main51 {
+    width: 100%;
+  }
+
+  .Main51 h2 {
+    width: 45%;
+  }
+
+  .Main51 p {
+    width: 83%;
+  }
+
+  .Main53 h3 {
+    text-align: center;
+    color: rgb(29, 46, 59);
+    font-family: "Caveat", handwriting;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 140%;
+    font-size: 3rem;
+  }
+
+  .Main53 h1 {
+    width: 50%;
+    font-size: 2.5rem;
+  }
+
+  .Main53 .Button12 {
+    margin-top: 25px;
+    width: 35%;
+  }
+
+  .Main6 {
+    padding-bottom: 60px;
+  }
+
+  .Main611 img {
+    top: 730vh;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+    height: 30%;
+    left: 76px;
+  }
+
+  .Main612 h1 {
+    margin-bottom: 90%;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+    width: 85%;
+  }
+
+  .Main7 {
+    width: 100%;
+  }
+
+  .Main71 {
+    width: 65%;
+    height: 130vh;
+  }
+
+  .Main711 {
+    position: absolute;
+    top: 830vh;
+    margin-right: auto;
+    left: 9px;
+
+  }
+
+  .Main7111 {
+    margin-left: 30px;
+  }
+
+  .Main711 img {
+    width: 80%;
+  }
+
+  .Main712 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .Main8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .Main8 h2 {
+    font-size: 2.5rem;
+  }
+
+  .Main81 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .Main81 img {
+    height: fit-content;
+    width: 60%;
+  }
+
+  .Main9 {
+    padding-bottom: 25px;
+  }
+
+  .accordion-header {
+    font-size: 1.5rem;
+  }
+
+  .accordion-item {
+    width: 100%;
+  }
+
+  .accordion-content {
+    width: 90%;
+  }
+
+  .FooterBox {
+    width: 30%;
+  }
+
+  .FooterBox img {
+    width: 100%;
+    height: 6.2vh;
+  }
+}
+
+
+
+
+/* 
+
+  MEDIUM PHONE SCREEM
+
+*/
+
+
+@media screen and (max-width: 376px) {
+  .HomeContainer {
+    width: 100%;
+  }
+
+  .NavbarContainer {
+    width: 100%;
+  }
+
+  .Main1 {
+    width: 96%;
+    height: 115vh;
+    gap: 70px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Main1 h1 {
+    font-size: 2.7rem;
+  }
+
+  .Main1 h4 {
+    font-size: 23px;
+    width: 73%;
+  }
+
+  .Button1 {
+    margin-top: 50%;
+  }
+
+  .Main1 span {
+    margin-top: -33px;
+  }
+
+  .Main11 {
+    display: none;
+  }
+
+  .Main2 {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 500px;
+  }
+
+  .Main22 {
+    width: 79.7%;
+    position: absolute;
+  }
+
+  .Main21 {
+    width: 92.6;
+  }
+
+  .Main221 p {
+    height: 100%;
+
+  }
+
+  .Main222 {
+    display: none;
+  }
+
+  .Main3 {
+    width: 100%;
+    height: 215vh;
+  }
+
+
+  .Main31 {
+    padding-top: 5%;
+    width: 95%;
+  }
+
+  .Main32 {
+    display: flex;
+    flex-direction: column;
+    gap: 3.875em;
+    height: 130vh;
+    justify-content: space-between;
+  }
+
+  .Main321 {
+    width: 75%;
+
+  }
+
+  .Main321 p {
+    width: 35%;
+  }
+
+  .Main33 {
+    width: 82%;
+    left: 10%;
+  }
+
+
+  .main33 span {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    width: 120%;
+  }
+
+
+  .Button11 {
+    margin-top: 57%;
+    width: 80%;
+  }
+
+  .Main34 {
+    padding-top: 30%;
+  }
+
+  .Main41 {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 4%;
+  }
+
+  .Main411 h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .Main411 p {
+    width: 98%;
+  }
+
+  .Main421 img {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 95%;
+
+  }
+
+  .Main51 {
+    width: 100%;
+  }
+
+  .Main51 h2 {
+    width: 80%;
+
+  }
+
+  .Main51 p {
+    width: 83%;
+  }
+
+  .Main53 h3 {
+    text-align: center;
+    color: rgb(29, 46, 59);
+    font-family: "Caveat", handwriting;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 140%;
+    font-size: 3rem;
+  }
+
+  .Main53 h1 {
+    width: 50%;
+    font-size: 2.5rem;
+  }
+
+  .Main53 .Button12 {
+    margin-top: 25px;
+    width: 65%;
+
+  }
+
+  .Main6 {
+    padding-bottom: 60px;
+  }
+
+  .Main61 {
+    width: 90%;
+    margin-left: -5%;
+  }
+
+  .Main611 img {
+    top: 685vh;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+    height: 30%;
+    left: 60px;
+  }
+
+  .Main612 h1 {
+    margin-bottom: 90%;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+    width: 85%;
+  }
+
+  .Main7 {
+    width: 100%;
+  }
+
+  .Main71 {
+    width: 65%;
+    height: 110vh;
+  }
+
+  .Main711 {
+    position: absolute;
+    top: 830vh;
+    margin-right: auto;
+    left: 9px;
+
+  }
+
+  .Main7111 {
+    margin-left: 30px;
+  }
+
+  .Main711 img {
+    width: 107%;
+    position: absolute;
+    top: -40vh;
+  }
+
+  .Main712 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .Main8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+  }
+
+  .Main8 h2 {
+    font-size: 2.5rem;
+  }
+
+  .Main81 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .Main81 img {
+    height: fit-content;
+    width: 60%;
+  }
+
+  .Main9 {
+    padding-bottom: 25px;
+  }
+
+  .accordion-header {
+    font-size: 1.5rem;
+  }
+
+  .accordion-item {
+    width: 100%;
+  }
+
+  .accordion-content {
+    width: 90%;
+  }
+
+  .FooterBox {
+    width: 30%;
+  }
+
+  .FooterBox img {
+    width: 100%;
+    height: 6.2vh;
+  }
+}
+
+
+
+
+/* 
+
+
+  SCREEN SMALL MOBILE PHONES
+
+
+*/
+
+
+
+
+
+@media screen and (max-width: 321px) {
+  .HomeContainer {
+    width: 100%;
+  }
+
+  .NavbarContainer {
+    width: 100%;
+  }
+
+  .Main1 {
+    width: 96%;
+    height: 115vh;
+    gap: 70px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .Main1 h1 {
+    font-size: 2.7rem;
+  }
+
+  .Main1 h4 {
+    font-size: 23px;
+    width: 73%;
+  }
+
+  .Button1 {
+    margin-top: 50%;
+  }
+
+  .Main1 span {
+    margin-top: -33px;
+  }
+
+  .Main11 {
+    display: none;
+  }
+
+  .Main2 {
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    top: 500px;
+  }
+
+  .Main22 {
+    width: 79.7%;
+    position: absolute;
+  }
+
+  .Main21 {
+    width: 92.6;
+  }
+
+  .Main221 p {
+    height: 100%;
+
+  }
+
+  .Main222 {
+    display: none;
+  }
+
+  .Main3 {
+    width: 100%;
+    height: 215vh;
+  }
+
+
+  .Main31 {
+    padding-top: 5%;
+    width: 95%;
+  }
+
+  .Main32 {
+    display: flex;
+    flex-direction: column;
+    gap: 3.875em;
+    height: 130vh;
+    justify-content: space-between;
+  }
+
+  .Main321 {
+    width: 75%;
+
+  }
+
+  .Main321 p {
+    width: 35%;
+  }
+
+  .Main33 {
+    width: 82%;
+    left: 10%;
+  }
+
+
+  .main33 span {
+    font-family: "Inter", sans-serif;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    height: 60px;
+    align-items: center;
+    width: 120%;
+  }
+
+
+  .Button11 {
+    margin-top: 57%;
+    width: 80%;
+  }
+
+  .Main34 {
+    padding-top: 30%;
+  }
+
+  .Main41 {
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin-left: 4%;
+  }
+
+  .Main411 h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  .Main411 p {
+    width: 98%;
+  }
+
+  .Main421 img {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 95%;
+
+  }
+
+  .Main51 {
+    width: 100%;
+  }
+
+  .Main51 h2 {
+    width: 80%;
+
+  }
+
+  .Main51 p {
+    width: 83%;
+  }
+
+  .Main53 h3 {
+    text-align: center;
+    color: rgb(29, 46, 59);
+    font-family: "Caveat", handwriting;
+    font-weight: 700;
+    letter-spacing: 0;
+    line-height: 140%;
+    font-size: 3rem;
+  }
+
+  .Main53 h1 {
+    width: 50%;
+    font-size: 2.5rem;
+  }
+
+  .Main53 .Button12 {
+    margin-top: 25px;
+    width: 65%;
+
+  }
+
+  .Main6 {
+    padding-bottom: 60px;
+  }
+
+  .Main61 {
+    width: 90%;
+    margin-left: -5%;
+  }
+
+  .Main611 img {
+    top: 696vh;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    width: 68%;
+    height: 25%;
+    left: 60px;
+
+  }
+
+  .Main612 h1 {
+    margin-bottom: 90%;
+    margin-top: 0;
+    margin-left: 0;
+    text-align: center;
+    width: 85%;
+  }
+
+  .Main7 {
+    width: 100%;
+  }
+
+  .Main71 {
+    width: 65%;
+    height: 100vh;
+  }
+
+  .Main711 {
+    position: absolute;
+    top: 830vh;
+    margin-right: auto;
+    left: 9px;
+
+  }
+
+  .Main7111 {
+    margin-left: 0px;
+    margin-top: 110px;
+  }
+
+  .Main711 img {
+    width: 100%;
+    position: absolute;
+    top: -15vh;
+  }
+
+  .Main712 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .Main8 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 70vh;
+  }
+
+  .Main8 h2 {
+    font-size: 2.5rem;
+  }
+
+  .Main81 {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .Main81 img {
+    height: fit-content;
+    width: 60%;
+  }
+
+  .Main9 {
+    padding-bottom: 25px;
+  }
+
+  .accordion-header {
+    font-size: 1.5rem;
+  }
+
+  .accordion-item {
+    width: 100%;
+  }
+
+  .accordion-content {
+    width: 90%;
+  }
+
+  .FooterBox {
+    width: 30%;
+  }
+
+  .FooterBox img {
+    width: 100%;
+    height: 6.2vh;
+  }
+}
